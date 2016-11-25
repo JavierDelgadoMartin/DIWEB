@@ -36,7 +36,7 @@ header{
 .menu{
     width: 50%;
     display: block;
-    padding: 0.7em;
+    /*padding: 0.7em;*/
     overflow: hidden;
     margin-left: 22%;
     border: 1px solid #000000;
@@ -47,7 +47,7 @@ header{
     float: left;
     border-radius: 1px;
     border-color: #f2f2f2;
-    margin-left: 2em;
+    margin: .7em;
 }
 
 .menu li a{
