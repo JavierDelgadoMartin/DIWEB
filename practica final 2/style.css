@@ -1,14 +1,16 @@
+/*Parte igual en todos las paginas*/
 body{
     padding: 0;
     margin: 0;
-    background-color: darkolivegreen;
+    background-image:url("imagenes/campo%20olivos.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 header *{
     display: inline-block;
 }
 header{
     max-width: 100%;
-    background-color: #f2f2f2;
     height: auto;
 }
 
@@ -24,37 +26,64 @@ header{
     width: 5%;
     
 }
-.redes div{
-    width: 50%;
-    height: auto;
-}
 
 .redes #facebook{
-    background-image: url("facebook.jpg");
+
 }
 
 .menu{
-    width: 50%;
-    display: block;
-    overflow: hidden;
-    margin-left: 22%;
+    width: 60%;
+    margin-left: 17%;
     border: 1px solid #000000;
+    background-color: #f2f2f2;
 }
 
-.menu li{
+.menu ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+
+}
+
+ul li{
     list-style-type: none;
-    float: left;
-    border-radius: 1px;
-    border-color: #f2f2f2;
-    margin: .7em;
+    margin: 1em;
+    flex: 1;
 }
 
-.menu li a{
+ul li a{
     text-decoration:none;
-    display: block;
     text-transform: uppercase;
+    vertical-align: baseline;
 }
 
-.menu li a:link {
+ul li a:link {
     color:red;
+}
+li:hover{
+    color: #1abc9c;
+}
+
+.articulo{
+    padding: 2%;
+    position: relative;
+    max-width: 60%;
+    margin-left: 15%;
+    text-align: center;
+    margin-top: 1%;
+    background-color: #f2f2f2;
+    border: 1px solid #000000;
+    overflow: hidden;
+}
+.articulo img{
+    position: relative;
+    margin-top: 1%;
+}
+.articulo #img1{
+    float: left;
+
+}
+
+.articulo #img2{
+    float: right;
 }
