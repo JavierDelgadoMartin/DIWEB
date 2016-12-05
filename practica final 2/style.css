@@ -1,4 +1,59 @@
 /*Parte igual en todos las paginas*/
+
+@media only screen and (min-width: 800px) {
+    .col-1 {
+        width: 8.33%;
+    }
+
+    .col-2 {
+        width: 16.66%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.33%;
+    }
+
+    .col-5 {
+        width: 41.66%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-7 {
+        width: 58.33%;
+    }
+
+    .col-8 {
+        width: 66.66%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.33%;
+    }
+
+    .col-11 {
+        width: 91.66%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
 body{
     padding: 0;
     margin: 0;
@@ -6,17 +61,27 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
 header *{
     display: inline-block;
 }
+
 header{
-    max-width: 100%;
     height: auto;
+}
+
+.logo{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    margin-left: 1%;
+    margin-top: 1%;
 }
 
 .titulo{
     text-align: center;
-    margin-left: 40%;
+    margin-left: 42%;
+    color: #982699;
     text-transform: uppercase;
 
 }
@@ -32,58 +97,84 @@ header{
 }
 
 .menu{
-    width: 60%;
-    margin-left: 17%;
+    margin-left: 20%;
     border: 1px solid #000000;
     background-color: #f2f2f2;
 }
 
 .menu ul{
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 auto;
-
-}
-
-ul li{
+    width: 100%;
     list-style-type: none;
-    margin: 1em;
-    flex: 1;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-ul li a{
+.menu ul li{
+    list-style-type: none;
+    float: left;
+}
+
+.menu ul li a{
+    display: block;
+    text-align: center;
+    padding: 14px 27px;
+    color:black;
+    color: #982699;
     text-decoration:none;
     text-transform: uppercase;
-    vertical-align: baseline;
 }
 
-ul li a:link {
-    color:red;
-}
-li:hover{
-    color: #1abc9c;
+.menu li a:hover {
+    background-color: #982699;
+    color: white;
 }
 
 .articulo{
     padding: 2%;
     position: relative;
-    max-width: 60%;
-    margin-left: 15%;
+    margin-left: 20%;
     text-align: center;
     margin-top: 1%;
     background-color: #f2f2f2;
     border: 1px solid #000000;
     overflow: hidden;
 }
+
 .articulo img{
     position: relative;
-    margin-top: 1%;
+    margin-top: 2%;
+    display: inline-block;
+    vertical-align: top;
 }
-.articulo #img1{
-    float: left;
 
+.articulo #img1 {
+    width: 25%;
+    margin-right: 10%;
+    height: auto;
 }
 
 .articulo #img2{
-    float: right;
+    width: 25%;
+    height: auto;
+    margin-left: 10%;
+}
+
+@media only screen and (max-width: 800px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+    .titulo{
+        margin-left: 25%;
+    }
+    .menu{
+        margin-left: 0%;
+    }
+    .menu ul li{
+        display: block;
+        width: 100%;
+    }
+    .articulo {
+        margin-left: 0%;
+    }
 }
