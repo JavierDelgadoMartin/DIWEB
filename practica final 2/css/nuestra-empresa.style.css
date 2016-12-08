@@ -1,0 +1,27 @@
+.nosotros {
+    padding: 5%;
+    position: relative;
+    margin-left: 20%;
+    text-align: center;
+    margin-top: 2%;
+    background-color: #f2f2f2;
+    overflow: hidden;
+}
+
+.nosotros * {
+    display: inline-block;
+}
+
+.nosotros p{
+    width: 100%;
+    margin-top: 2%;
+    display: inline-block;
+    text-align: justify;
+}
+
+.nosotros img{
+    float: right;
+    margin-left: 2%;
+    width: 17%;
+    margin-top: 0;
+}

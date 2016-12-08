@@ -1,0 +1,24 @@
+.contacto{
+    background-color: #f2f2f2;
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+.contacto div{
+    margin-left: 10%;
+    overflow: hidden;
+}
+
+.contacto img{
+    margin-left: 2%;
+}
+
+@media only screen and (max-width: 800px) {
+    .contacto{
+        margin-left: 0;
+    }
+
+    .contacto img{
+        width: 100%;
+    }
+}

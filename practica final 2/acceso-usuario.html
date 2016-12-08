@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,user-scalable=no, initial-scale=1.0">
     <title>http://www.olivasJaen.es</title>
     <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/acceso-usuario.css">
     <link type="text/css" rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -26,8 +27,41 @@
     </nav>
 </header>
 <section class="col-12">
-    <article class="producto col-2">
-
+    <article class="registro col-2">
+        <h3>Registro</h3>
+        <form>
+            <div>
+            <label>Nombre: <input type="text"></label>
+            <label>Apellidos: <input type="text"></label>
+            <label>Teléfono: <input type="number"></label>
+            <label>Dirección: <input type="text"></label>
+            </div>
+            <div>
+            <label>Usuario: <input type="text"></label>
+            <label>Contraseña: <input type="password"></label>
+            <label>Correo: <input type="email"></label>
+            </div>
+            <div id="caja3">
+            <label>
+                <select>
+                    <option>Particular</option>
+                    <option>Autonomo</option>
+                    <option>Empresa</option>
+                </select>
+            </label>
+            <input class="enviar" type="submit" value="registrar">
+            </div>
+        </form>
+    </article>
+    <article class="conectar col-2">
+        <h3>Conectarse</h3>
+        <form>
+            <div>
+            <label>Usuario: <input type="text"></label>
+            <label>Contraseña: <input type="password"></label>
+            <input class="enviar" type="submit" value="enviar">
+            </div>
+        </form>
     </article>
 </section>
 </body>

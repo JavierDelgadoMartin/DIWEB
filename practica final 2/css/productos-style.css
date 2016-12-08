@@ -1,0 +1,71 @@
+.producto{
+    margin-left: 20%;
+    display: inline-block;
+    background-color: #f2f2f2;
+    margin-top: 2%;
+}
+
+.producto img{
+    width: 350px;
+    height: auto;
+    margin-left: 22%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#info-producto{
+    float: right;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.ficha, .datos, .comprar{
+    padding: 4%;
+    width: 100%;
+    background-color: #f2f2f2;
+    vertical-align: top;
+}
+
+.datos, .comprar {
+    margin-top: 17.7%;
+}
+
+.datos input{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 12%;
+}
+
+.ficha{
+    color: white;
+    background-color: #7f2180;
+}
+
+.botones{
+    margin-left: 20%;
+}
+
+
+.ficha h2, h3{
+    margin-left: 5%;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 800px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+    .datos, .comprar {
+        margin-top: 2%;
+    }
+    .producto {
+        margin-left: 0;
+    }
+    .producto img{
+        margin: 0;
+        width: 100%;
+    }
+    #info-producto {
+        width: 100%;
+        margin: 0%;
+    }
+}

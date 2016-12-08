@@ -55,6 +55,7 @@
 }
 
 body{
+
     padding: 0;
     margin: 0;
     background-image:url("../imagenes/campo%20olivos.jpg");
@@ -77,7 +78,7 @@ header{
     width: 7%;
     height: auto;
     margin-left: 2%;
-    margin-top: 0.8%;
+    margin-top: 1%;
 }
 
 .titulo{
@@ -92,7 +93,6 @@ header{
     margin-right: 2%;
     float: right;
 }
-
 .menu{
     background-color: #f2f2f2;
     padding: 0;
@@ -100,7 +100,7 @@ header{
 }
 
 .menu ul{
-    margin: 0% 20% 0%;
+    margin: 0 20% 0;
     overflow: hidden;
     list-style-type: none;
     padding: 0;
@@ -128,7 +128,7 @@ header{
     color: white;
 }
 
-.informacion {
+.nosotros {
     padding: 2%;
     position: relative;
     margin-left: 20%;
@@ -138,24 +138,25 @@ header{
     overflow: hidden;
 }
 
-.informacion img{
+.nosotros img{
     position: relative;
     margin-top: 2%;
     display: inline-block;
     vertical-align: top;
 }
 
-.informacion #img1 {
+.nosotros #img1 {
     width: 25%;
     margin-right: 10%;
     height: auto;
 }
 
-.informacion #img2{
+.nosotros #img2{
     width: 25%;
     height: auto;
     margin-left: 10%;
 }
+
 
 @media only screen and (max-width: 800px) {
     [class*="col-"] {
@@ -167,11 +168,18 @@ header{
     .menu{
         margin-left: 0%;
     }
+    .menu ul{
+        margin: 0%;
+    }
     .menu ul li{
         display: block;
         width: 100%;
     }
-    .informacion {
+    .menu ul li a{
+        width: 100%;
+        padding: 14px ;
+    }
+    .nosotros {
         margin-left: 0%;
     }
 }
