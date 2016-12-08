@@ -72,9 +72,9 @@ header{
 
 .logo{
     position: absolute;
-    width: 10%;
+    width: 7%;
     height: auto;
-    margin-left: 1%;
+    margin-left: 2%;
     margin-top: 1%;
 }
 
@@ -85,15 +85,15 @@ header{
     text-transform: uppercase;
 
 }
+
 .redes{
+    margin-top: 7%;
+    margin-right: 2%;
     float: right;
-    margin: 2%;
-    width: 5%;
-    
 }
 
-.redes #facebook{
-
+.redes i{
+    color: #982699;
 }
 
 .menu{
@@ -107,19 +107,18 @@ header{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
 .menu ul li{
     list-style-type: none;
     float: left;
+
 }
 
 .menu ul li a{
     display: block;
     text-align: center;
     padding: 14px 27px;
-    color:black;
     color: #982699;
     text-decoration:none;
     text-transform: uppercase;
@@ -130,31 +129,31 @@ header{
     color: white;
 }
 
-.articulo{
+.informacion {
     padding: 2%;
     position: relative;
     margin-left: 20%;
     text-align: center;
-    margin-top: 1%;
+    margin-top: 2%;
     background-color: #f2f2f2;
     border: 1px solid #000000;
     overflow: hidden;
 }
 
-.articulo img{
+.informacion img{
     position: relative;
     margin-top: 2%;
     display: inline-block;
     vertical-align: top;
 }
 
-.articulo #img1 {
+.informacion #img1 {
     width: 25%;
     margin-right: 10%;
     height: auto;
 }
 
-.articulo #img2{
+.informacion #img2{
     width: 25%;
     height: auto;
     margin-left: 10%;
@@ -174,7 +173,7 @@ header{
         display: block;
         width: 100%;
     }
-    .articulo {
+    .informacion {
         margin-left: 0%;
     }
 }
