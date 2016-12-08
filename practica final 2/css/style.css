@@ -57,17 +57,19 @@
 body{
     padding: 0;
     margin: 0;
-    background-image:url("imagenes/campo%20olivos.jpg");
+    background-image:url("../imagenes/campo%20olivos.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 header *{
     display: inline-block;
+    color: white;
 }
 
 header{
     height: auto;
+    background-color: #7f2180;
 }
 
 .logo{
@@ -75,38 +77,34 @@ header{
     width: 7%;
     height: auto;
     margin-left: 2%;
-    margin-top: 1%;
+    margin-top: 0.8%;
 }
 
 .titulo{
     text-align: center;
     margin-left: 42%;
-    color: #982699;
     text-transform: uppercase;
 
 }
 
 .redes{
-    margin-top: 7%;
+    margin-top: 2%;
     margin-right: 2%;
     float: right;
 }
 
-.redes i{
-    color: #982699;
-}
-
 .menu{
-    margin-left: 20%;
-    border: 1px solid #000000;
     background-color: #f2f2f2;
+    padding: 0;
+    width: 100%;
 }
 
 .menu ul{
-    width: 100%;
+    margin: 0% 20% 0%;
+    overflow: hidden;
     list-style-type: none;
-    margin: 0;
     padding: 0;
+
 }
 
 .menu ul li{
@@ -116,16 +114,17 @@ header{
 }
 
 .menu ul li a{
+    transition: 0.3s;
     display: block;
     text-align: center;
     padding: 14px 27px;
-    color: #982699;
+    color: #7f2180;
     text-decoration:none;
     text-transform: uppercase;
 }
 
 .menu li a:hover {
-    background-color: #982699;
+    background-color: #7f2180;
     color: white;
 }
 
@@ -136,7 +135,6 @@ header{
     text-align: center;
     margin-top: 2%;
     background-color: #f2f2f2;
-    border: 1px solid #000000;
     overflow: hidden;
 }
 
