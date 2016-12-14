@@ -2,14 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6b27aa-5ca0-48c5-b62b-9efb734990d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/aceite.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/campo olivos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/mapa.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/producto1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/producto2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/producto3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica final 2/imagenes/producto4.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica 6.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica 6/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica 6/nav.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica 6/practica6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/acceso-usuario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/contacto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/acceso-usuario.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/contacto-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/nuestra-empresa.style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/productos-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/css/tienda-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/aceite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/campo olivos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/mapa.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/producto1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/producto2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/producto3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/imagenes/producto4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/nuestra-empresa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/productos/producto1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/productos/producto2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/productos/producto3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/productos/producto4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practica final 2/tienda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/tarea7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 7/tarea7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/calendario.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/calendario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/slideshow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/slideshow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea 9/slideshow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea guiada/guia RWD.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarea guiada/guia RWD.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWEB.iws" />
@@ -30,18 +67,7 @@
     <favorites_list name="DWEB" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practica final 2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,7 +132,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -152,38 +178,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWEB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWEB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practica final 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWEB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWEB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practica final 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imagenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -214,16 +208,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\segundo\DWEB\practica final 2\productos" />
+      <recent name="D:\segundo\DWEB\practica final 2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\segundo\DWEB\practica final 2\imagenes" />
       <recent name="D:\segundo\DWEB\practica final 2" />
       <recent name="D:\segundo\DWEB\practica final 2\productos\css" />
       <recent name="D:\segundo\DWEB\practica final 2\productos" />
       <recent name="D:\segundo\DWEB" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\segundo\DWEB\practica final 2\productos" />
-      <recent name="D:\segundo\DWEB\practica final 2" />
     </key>
   </component>
   <component name="RunManager">
@@ -383,22 +377,28 @@
       <option name="project" value="LOCAL" />
       <updated>1481230039545</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&quot;finalizado&quot;">
+      <created>1481713323515</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1481713323515</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14610866" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14568081" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
