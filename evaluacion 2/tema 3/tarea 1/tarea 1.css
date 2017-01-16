@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: #5cb85c;
+}
+
+a:hover {
+    text-decoration:none;
+}
+
+div ul{
+    vertical-align: middle;
+    display: inline-block;
+}
+.pagination > li > a{
+    color: #5cb85c;
+}
+.pagination > .active > a{
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+
+.pagination > .active > a:hover{
+    background-color: #57ae57;
+    border-color:  #57ae57;
+}
